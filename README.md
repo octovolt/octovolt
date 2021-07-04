@@ -1,4 +1,4 @@
-@octopus-arts is working on creative coding, eurorack modular synthesizers, video processing / video art, computer generated art, music.
+@octopus-arts is working on creative coding, video processing / video art, computer generated art, eurorack modular synthesizers and electronic music.
 
 <!---
 octopus-arts/octopus-arts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
