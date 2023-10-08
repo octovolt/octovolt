@@ -1,4 +1,4 @@
-@octopus-arts is working on creative coding, video processing / video art, computer generated art, eurorack modular synthesizers and electronic music.
+@octovolt develops open source / open hardware [eurorack synthesizer modules](https://en.wikipedia.org/wiki/Eurorack) for both audio and video. @octovolt also creates web applications and [internet art](https://en.wikipedia.org/wiki/Internet_art).
 
 <!---
 octopus-arts/octopus-arts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
